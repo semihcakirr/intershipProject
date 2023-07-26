@@ -1,0 +1,48 @@
+The data set used: [10, 12, 15, 14]
+2023-03-29 15:02:01 - The slowest squirrel crosses the river in 15 seconds.
+
+The data set used: [10, 12, 15, 14]
+2023-03-29 15:02:01 - In best case, Scrat and his friends crosses the river in 61 seconds.
+
+The data set used: [10, 12, 15, 14]
+2023-03-29 15:02:01 - The fastest squirrel crosses the river in 10 seconds.
+
+The data set used: [10, 12, 15, 14]
+2023-03-29 15:02:01 - In worst case, Scrat and his friends crosses the river in 75 seconds.
+
+The data set used: [5, 5, 5, 5]
+2023-03-29 15:03:08 - The slowest squirrel crosses the river in 5 seconds.
+
+The data set used: [5, 5, 5, 5]
+2023-03-29 15:03:08 - In best case, Scrat and his friends crosses the river in 25 seconds.
+
+The data set used: [5, 5, 5, 5]
+2023-03-29 15:03:08 - The fastest squirrel crosses the river in 5 seconds.
+
+The data set used: [5, 5, 5, 5]
+2023-03-29 15:03:08 - In worst case, Scrat and his friends crosses the river in 25 seconds.
+
+The data set used: [4, 6, 7, 9]
+2023-03-29 15:04:49 - The slowest squirrel crosses the river in 9 seconds.
+
+The data set used: [4, 6, 7, 9]
+2023-03-29 15:04:49 - In best case, Scrat and his friends crosses the river in 30 seconds.
+
+The data set used: [4, 6, 7, 9]
+2023-03-29 15:04:49 - The fastest squirrel crosses the river in 4 seconds.
+
+The data set used: [4, 6, 7, 9]
+2023-03-29 15:04:49 - In worst case, Scrat and his friends crosses the river in 45 seconds.
+
+The data set used: [3, 5, 8, 13]
+2023-03-29 15:07:20 - The slowest squirrel crosses the river in 13 seconds.
+
+The data set used: [3, 5, 8, 13]
+2023-03-29 15:07:20 - In best case, Scrat and his friends crosses the river in 32 seconds.
+
+The data set used: [3, 5, 8, 13]
+2023-03-29 15:07:20 - The fastest squirrel crosses the river in 3 seconds.
+
+The data set used: [3, 5, 8, 13]
+2023-03-29 15:07:20 - In worst case, Scrat and his friends crosses the river in 65 seconds.
+
